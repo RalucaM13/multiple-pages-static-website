@@ -12,3 +12,6 @@ a {
   justify-content: center;
   text-transform: capitalize;
 }
+.images {
+  size: 50%;
+}
