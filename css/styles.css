@@ -13,5 +13,5 @@ a {
   text-transform: capitalize;
 }
 .images {
-  margin: 50px, auto;
+  max-width: 80%;
 }
